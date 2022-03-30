@@ -1,7 +1,7 @@
 # What is a gene literature network?
 #### Reese Richardson, March 29, 2022
 
-<img src='img/screenshot.png' height="500">
+<img src='img/screenshot.png' height="250">
 
 Biological researchers often employ networks to describe relationships between an organism's genes at-scale. Common applications of networks include [gene regulatory networks](https://www.nature.com/articles/s41598-018-37667-4) and [gene co-expression networks](https://www.frontiersin.org/articles/10.3389/fgene.2019.01214/full). However, networks can also describe how genes interact **in literature**. 
 
