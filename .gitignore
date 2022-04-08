@@ -1,3 +1,6 @@
 .ipynb_checkpoints/
 __pycache__/
 proteostasis/*.csv
+data/
+gene_literature_network_proteostasis_ambiguous.html
+proteostasis.ipynb
