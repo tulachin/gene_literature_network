@@ -3,4 +3,8 @@ __pycache__/
 proteostasis/*.csv
 data/
 gene_literature_network_proteostasis_ambiguous.html
+gene_bibliograph_proteostasis_full.html
+gene_bibliograph_proteostasis_tpr_domain.html
+gene_bibliograph_just_chaperone_branch.html
 proteostasis.ipynb
+pred_explore.ipynb
